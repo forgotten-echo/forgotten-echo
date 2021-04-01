@@ -1,0 +1,57 @@
+@import url("https://fonts.googleapis.com/css2?family=Karla:wght@300;400;700&family=Rokkitt:wght@300;400;700&display=swap");
+
+:root {
+  --red: #fb3640ff;
+  --grey: #605f5eff;
+  --dark-blue: #1d3461ff;
+  --blue: #1f487eff;
+  --light-blue: #247ba0ff;
+  --white: #fff;
+
+  --main-font: "Karla", sans-serif;
+  --heading-font: "Rokkitt", serif;
+}
+
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-family: var(--main-font);
+  color: var(--dark-blue);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: var(--heading-font);
+  text-transform: uppercase;
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+}
+
+h1 {
+  font-size: 10rem;
+}
+
+p {
+  font-size: 1.6rem;
+}
