@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @forgotten-echo
 - 👀 I’m interested in Web dev
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on Javascript and Javascript related Frameworks
 - 📫 Send me dm on instagram, thats the only platform I use currently
 
